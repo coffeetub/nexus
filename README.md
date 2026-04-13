@@ -1,4 +1,4 @@
-**Prefered Browser: Chrome\n**
+**Prefered Browser: Chrome**<br>
 **Please allow the animations to finish before clicking on any button**
 **Use scroll bar to navigate through the slides in the main app**
 **Future Plannings: The stories given under all the planets will be used to complete the missions, only then the XP will be increased**
