@@ -108,7 +108,7 @@ function WelcomeAnimation({ onDismiss }) {
           transition: 'bottom 1.4s cubic-bezier(0.2,0,0.6,1), left 1.4s cubic-bezier(0.2,0,0.6,1)',
           zIndex: 60,
           // Rotate the image to aim top-right: 45° counter-clockwise
-          transform: 'rotate(-45deg)',
+          transform: 'rotate(0deg)',
           filter: 'drop-shadow(0 0 24px rgba(255,140,40,0.95)) drop-shadow(0 0 8px #fff)',
         }}>
           <img
