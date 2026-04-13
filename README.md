@@ -1,7 +1,9 @@
 **Prefered Browser: Chrome**<br>
+**This website is for learning technical things in an interactive manner**<br>
 **Please allow the animations to finish before clicking on any button**<br>
-**Use scroll bar to navigate through the slides in the main app**<br>
+**Use scroll bar on the right to navigate through the slides in the main app**<br>
 **Click on a planet to explore , example-: click on URANUS to explore URANUS**<br>
+**Make sure to see the end credits**<br>
 **Future Plannings: The stories given under all the planets will be used to complete the missions, only then the XP will be increased**<br><br><br>
 🚀 NEXUS — Mission Control Portfolio
 An immersive, space-themed 3D developer portfolio built with React, Three.js, GSAP, and Vite. Navigate a living solar system where each planet represents a dev skill domain.
