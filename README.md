@@ -1,7 +1,7 @@
 **Prefered Browser: Chrome**<br>
-**Please allow the animations to finish before clicking on any button**
-**Use scroll bar to navigate through the slides in the main app**
-**Future Plannings: The stories given under all the planets will be used to complete the missions, only then the XP will be increased**
+**Please allow the animations to finish before clicking on any button**<br>
+**Use scroll bar to navigate through the slides in the main app**<br>
+**Future Plannings: The stories given under all the planets will be used to complete the missions, only then the XP will be increased**<br>
 🚀 NEXUS — Mission Control Portfolio
 An immersive, space-themed 3D developer portfolio built with React, Three.js, GSAP, and Vite. Navigate a living solar system where each planet represents a dev skill domain.
 
